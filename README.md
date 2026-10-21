@@ -9,7 +9,7 @@ The repository contains the two methods evaluated in the article:
 
 ## Dataset
 
-The dataset is not part of this repository and is hosted on Zenodo. Add the public Zenodo record URL or DOI here before releasing the repository.
+The dataset is not part of this repository and is hosted on Zenodo: https://doi.org/10.5281/zenodo.17526861
 
 After downloading and extracting it, the expected layout is:
 
