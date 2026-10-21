@@ -1,6 +1,6 @@
 # Millimeter-wave radar multi-object tracking
 
-Companion implementation for the article *Bringing Modern Multi-Object Tracking to Millimeter-Wave Radar Target Lists for Indoor Human Tracking* by Lukas Engel, Markus Bergmann, Christoph Kammel, Ingrid Ullmann, Bjoern M. Eskofier, and Martin Vossiek.
+Companion implementation for the article *Bringing Modern Multi-Object Tracking to Millimeter-Wave Radar Target Lists for Indoor Human Tracking* by Lukas Engel, Markus Bergmann, Christoph Kammel, Ingrid Ullmann, Bjoern M. Eskofier, and Martin Vossiek. (https://ieeexplore.ieee.org/document/11741145)
 
 The repository contains the two methods evaluated in the article:
 
